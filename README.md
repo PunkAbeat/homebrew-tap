@@ -5,7 +5,7 @@ screenshot straight to your SSH host and puts a paste-ready path on the
 clipboard.
 
 ```sh
-brew install --cask davidlonjon/tap/hostbeam
+brew install --cask punkabeat/tap/hostbeam
 ```
 
 The cask installs the same signed and notarized universal build that
