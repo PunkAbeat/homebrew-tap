@@ -1,6 +1,6 @@
 cask "hostbeam" do
-  version "0.1.13"
-  sha256 "40de7908eafd8dc4347839070f599df0866ccc95516750ec6c6c29ef7d930af2"
+  version "0.1.14"
+  sha256 "c0d4288a96a37cca94e399146b23c89d74bc621db48963a123d19a269035b9a3"
 
   url "https://download.hostbeam.app/v#{version}/Hostbeam_#{version}.dmg"
   name "Hostbeam"
